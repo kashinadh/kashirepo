@@ -1,1 +1,1 @@
-hello this is product.rb file in admin
+hello this is prod.rb
